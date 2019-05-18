@@ -52,7 +52,7 @@ WHERE maandsal = '1250';
 
 --Vraag 8
 INSERT INTO Afdelingen(anr, hoofd, locatie, naam)
-VALUES ('60', '7782', 'LEERDAM', 'FINANCIËN');
+VALUES ('60', '7782', 'LEERDAM', 'FINANCIÃ‹N');
 
 INSERT INTO MEDEWERKERS(mnr, naam, voorl, functie, chef, gbdatum, maandsal, comm, afd)
 VALUES ('9112', 'Dahmani', 'R', 'Hoofd', '7783', '20-04-00', '7000', '', '60');
